@@ -15,7 +15,7 @@ and comparing hydrochemical indicators of the central Kaban lakes with backgroun
 - Downloaded and cleaned the water bodies of Kazan (lakes and rivers).
 - Calculated areas and lengths in a metric projection (EPSG:32639).
 - Treated the Kuibyshev Reservoir separately: the city boundary includes part of it
-  and would distort the total. Other water bodies: [A] km². Rivers and streams: [B] km.
+  and would distort the total. Other water bodies: [15,2] km². Rivers and streams: [336,7] km.
 - Compared the Kaban lakes with background lakes (summer–autumn averages).
 - Mapped the Kaban lakes with phenol exceeding the maximum permissible concentration (1.4 MPC).
 
